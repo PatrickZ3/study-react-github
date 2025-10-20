@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pslay/Documents/study react/server/server.csproj": {}
+    "/Users/pslay/Documents/study react github/server/server.csproj": {}
   },
   "projects": {
-    "/Users/pslay/Documents/study react/server/server.csproj": {
+    "/Users/pslay/Documents/study react github/server/server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pslay/Documents/study react/server/server.csproj",
+        "projectUniqueName": "/Users/pslay/Documents/study react github/server/server.csproj",
         "projectName": "server",
-        "projectPath": "/Users/pslay/Documents/study react/server/server.csproj",
+        "projectPath": "/Users/pslay/Documents/study react github/server/server.csproj",
         "packagesPath": "/Users/pslay/.nuget/packages/",
-        "outputPath": "/Users/pslay/Documents/study react/server/obj/",
+        "outputPath": "/Users/pslay/Documents/study react github/server/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pslay/.nuget/NuGet/NuGet.Config"
